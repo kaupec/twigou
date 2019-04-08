@@ -1,0 +1,12 @@
+{
+    "name": "julien/twig",
+    "authors": [
+        {
+            "name": "neilujerdan",
+            "email": "julien.letouzic1@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
